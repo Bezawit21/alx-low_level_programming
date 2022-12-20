@@ -6,7 +6,7 @@
  *
  * return: void.
  */
- 
+
 void puts2(char *s)
 {
 	int a;
